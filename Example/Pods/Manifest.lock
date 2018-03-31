@@ -1,0 +1,16 @@
+PODS:
+  - myActivity (0.1.0)
+
+DEPENDENCIES:
+  - myActivity (from `../`)
+
+EXTERNAL SOURCES:
+  myActivity:
+    :path: ../
+
+SPEC CHECKSUMS:
+  myActivity: e250391b39eed1dcb1754fc4642c0072ca74e72c
+
+PODFILE CHECKSUM: 5349e7c6b9097b0418f8165a9ba63e0957097560
+
+COCOAPODS: 1.4.0

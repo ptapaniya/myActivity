@@ -1,0 +1,6 @@
+framework module myActivity {
+  umbrella header "myActivity-umbrella.h"
+
+  export *
+  module * { export * }
+}
